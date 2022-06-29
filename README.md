@@ -1,4 +1,8 @@
-https://img.shields.io/static/v1?label=AAA&message=ABCao&color=blue
+![image](https://img.shields.io/static/v1?label=Date&message=2022.6&color=blue) 
+![image](https://img.shields.io/static/v1?label=Developer&message=ZhangTaiwei&color=green) 
+![image](https://img.shields.io/static/v1?label=Software&message=VAMS&color=yellow)  
+
+##  
 # **毕业设计项目说明**
 ##     
   
